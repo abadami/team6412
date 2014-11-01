@@ -1,7 +1,0 @@
-
-task main()
-{
-
-	printf("Test");
-
-}
